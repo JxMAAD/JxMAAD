@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **lalxmilo0607@gmail.com**
 
-- ⚡ Fun fact **I think I'm happy**
+- ⚡ Fun fact **I'm happy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
