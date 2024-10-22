@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jxmaad&label=Visitor&color=44ff1f&style=flat" alt="jxmaad" /> </p>
 
-- 🔭 I’m currently working on **Rodamu,Juragan-Website**
+- 🔭 I’m currently working on **Rodamu, Juragan-Website**
 
 - 🌱 I’m currently learning **Laravel, React, Typescript**
 
