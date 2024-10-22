@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hilal Ahmad Mujaddid</h1>
 <h3 align="center">I am a beginner backend developer, and I can also be a beginner frontend developer from Indonesia.</h3>
-<img align="right" alt="coding" width="400" src="https://iconscout.com/lottie-animation/coding-error-8928574.gif">
+<img align="right" alt="coding" width="400" src="[https://iconscout.com/lottie-animation/coding-error-8928574.gif](https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jxmaad&label=Visitor&color=44ff1f&style=flat" alt="jxmaad" /> </p>
 
