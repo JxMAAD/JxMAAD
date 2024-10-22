@@ -3,7 +3,7 @@
 <br>
 <br>
 <br>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
+<img align="right" alt="coding" width="380" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jxmaad&label=Visitor&color=44ff1f&style=flat" alt="jxmaad" /> </p>
 
