@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hilal Ahmad Mujaddid 😉</h1>
-<h3 align="center">I am a beginner backend developer, and I can also be a beginner frontend developer from Indonesia.</h3>
+<h3 align="center">I am a junior backend developer, and I can also be a junior frontend developer from Indonesia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jxmaad&label=Visitor&color=44ff1f&style=flat" alt="jxmaad" /> </p>
 
