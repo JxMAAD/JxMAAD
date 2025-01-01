@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
 
-- 🔭 I’m currently working on **Learn Flow, Website Jakarta**
+- 🔭 I’m currently working on **Learn Flow**
 
 - 🌱 I’m currently learning **Laravel, React, Typescript**
 
