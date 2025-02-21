@@ -5,9 +5,9 @@
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
 
-- 🔭 I’m currently working on **Learn Flow**
+- 🔭 I’m currently working on **GoodTech, Pengawas, WO**
 
-- 🌱 I’m currently learning **Laravel, React, Typescript**
+- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [https://hilal-portofolio.vercel.app/](https://hilal-portofolio.vercel.app/)
 
