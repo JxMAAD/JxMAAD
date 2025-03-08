@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
 
-- 🔭 I’m currently working on **GoodTech, Pengawas, WO**
+- 🔭 I’m currently working on **GoodRent, Pengawas, WO**
 
 - 🌱 I’m currently learning **Laravel**
 
