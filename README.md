@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hilal Ahmad Mujaddid 😉</h1>
 <h3 align="center">I am a junior backend developer, and I can also be a junior frontend developer from Indonesia.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jxmaad&label=Visitor&color=#00ff38&style=flat" alt="jxmaad" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jxmaad&label=Visitor&color=00ff38&style=flat" alt="jxmaad" /> </p>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
 
