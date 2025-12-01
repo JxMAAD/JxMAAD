@@ -28,4 +28,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jxmaad&show_icons=true&theme=dark&locale=en&layout=compact" alt="jxmaad" /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jxmaad&show_icons=true&theme=dark&locale=en" alt="jxmaad" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jxmaad&show_icons=true&theme=dark&locale=en" alt="jxmaad" /></p>
