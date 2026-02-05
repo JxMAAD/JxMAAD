@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Pengawas and TEKOM WEB**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Laravel and Express JS**
 
 - 👨‍💻 All of my projects are available at [https://hilal-portofolio.vercel.app/](https://hilal-portofolio.vercel.app/)
 
