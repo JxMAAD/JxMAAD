@@ -4,7 +4,6 @@
 
 [![](https://komarev.com/ghpvc/?username=JxMAAD&label=Visitor&color=FB2D20&style=flat)](https://visitcount.itsvg.in)
 
-<img align="right" alt="coding" width="200" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
 🔭 I’m currently working on Pengawas and TEKOM WEB<br>🌱 I’m currently learning Laravel and Express JS<br>💬 Ask me about Laravel<br>⚡ Fun fact I'm Happy
 
 
