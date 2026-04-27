@@ -1,4 +1,10 @@
 # 💫 About Me:
+<h1 align="center">Hi 👋, I'm Hilal Ahmad Mujaddid 😉</h1>
+<h3 align="center">I am a junior backend developer, and I can also be a junior frontend developer from Indonesia.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jxmaad&label=Visitor&color=FB2D20&style=flat" alt="jxmaad" /> </p>
+
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
 🔭 I’m currently working on Pengawas and TEKOM WEB<br>🌱 I’m currently learning Laravel and Express JS<br>💬 Ask me about Laravel<br>⚡ Fun fact I'm Happy
 
 
