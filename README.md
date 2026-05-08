@@ -4,7 +4,7 @@
 
 [![](https://komarev.com/ghpvc/?username=JxMAAD&label=Visitor&color=FB2D20&style=flat)](https://visitcount.itsvg.in)
 
-<b>🔭 I’m currently working on Pengawas and TEKOM WEB</b><br> <b>🌱 I’m currently learning Laravel and Express JS</b><br> <b>💬 Ask me about Laravel</b><br> <b>⚡ Fun fact I'm Happy</b>
+<b>🔭 I’m currently working on Pengawas, TEKOM WEB, and Agridation-2026</b><br> <b>🌱 I’m currently learning Laravel and Express JS</b><br> <b>💬 Ask me about Laravel</b><br> <b>⚡ Fun fact I'm Happy</b>
 
 
 ## 🌐 Socials:
